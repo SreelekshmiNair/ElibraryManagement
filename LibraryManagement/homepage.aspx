@@ -15,7 +15,7 @@
                 <div class="col-12">
                     <center>
                     <h2>Our Features</h2>
-                    <p><b>Our 3 primary features</b></p>
+                    <p><b>Our 4 primary features</b></p>
                     </center>
                 </div>
             </div>
